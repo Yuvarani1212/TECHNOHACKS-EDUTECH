@@ -40,7 +40,6 @@ TASK 1 :
 
 Data Collection: Gathering a dataset that includes information about house features and their corresponding prices.
 
-
 Data Preprocessing: Cleaning the data by handling missing values, encoding categorical variables, and scaling features as needed.
 
 Feature Engineering: Creating new features or transforming existing ones to improve model performance.
@@ -131,6 +130,11 @@ Feature Analysis: Identifying key factors that contribute to employee turnover a
 
 Visualization: Visual representations to illustrate model performance and insights into turnover factors.
 
+📫 Connect with Me
+
+Email: yuvaranisaravanan1212@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/yuvarani-saravanan-a809ba27b/recent-activity/all/
 
 
 
